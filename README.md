@@ -17,7 +17,7 @@ To use MarkItDown in a virtual environment, follow these steps:
 
    ```bash
    pip install git+https://github.com/microsoft/markitdown.git
-   ```
+```
 
 ## Usage
 
@@ -26,7 +26,6 @@ Convert a document file into Markdown using the provided convert_to_markdown.py 
 
 ```bash
 python convert_to_markdown.py <file_path>
-
 ```
 
 For example:
