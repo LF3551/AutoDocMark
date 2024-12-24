@@ -11,13 +11,13 @@ To use MarkItDown in a virtual environment, follow these steps:
    ```bash
    python3 -m venv my_markitdown_env
    source my_markitdown_env/bin/activate
-```
+    ```
 
 2. Install MarkItDown directly from the repository:
 
    ```bash
    pip install git+https://github.com/microsoft/markitdown.git
-```
+    ```
 
 ## Usage
 
